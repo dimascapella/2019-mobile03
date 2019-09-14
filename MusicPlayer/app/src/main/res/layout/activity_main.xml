@@ -28,7 +28,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         android:layout_marginStart="122dp"
         android:layout_marginEnd="122dp"
-        app:srcCompat="@drawable/current" />
+        app:srcCompat="@drawable/current_song_image" />
 
     <ImageView
         android:id="@+id/imageView"
